@@ -1,1 +1,3 @@
-console.log("hello");
+import getData from "./lib/service.js";
+
+getData(1);
